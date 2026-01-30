@@ -8,7 +8,7 @@ Each template is complete and ready for commercial use, featuring multi-tenant a
 - Pack of 12 Niches: $209 
 → [Buy on Gumroad](structlydb10.gumroad.com/l/pack12mysql)
 
-**Free Lite Version**: Test 5 niches for free → [GitHub Lite Repo](https://github.com/pedronicolasgalindo-ai/mysql-enterprise-templates-lite)
+**Free Lite Version**: Test 5 niches for free → [GitHub Lite Repo](https://github.com/pedronicolasgalindo-ai/mysql-enterprise-templates-portifolio.git)
 
 ### Portfolio Showcase – 3 Complete Examples
 
